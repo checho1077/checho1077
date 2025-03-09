@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 ¡Hola! Soy [Tu Nombre] 😃  
+# 👋 ¡Hola! Soy [Sergio Galvis] 😃  
 
 🎯 **Desarrollador | Trader | Emprendedor | Data Scientist**  
 📍 Ubicación: Colombia  
@@ -9,8 +9,8 @@
 ---
 
 ## 🚀 Sobre mí  
-- 💻 Actualmente estoy desarrollando un **sistema de análisis de correos con la API de Microsoft Graph**  
-- 📈 Hago **trading en EUR/USD** usando estrategias avanzadas  
+- 💻 Actualmente estoy desarrollando un **sistema de análisis de correos con la API de Microsoft Graph, y un bot para predecir precios de activos con Eur/Usd o Xau/USD**  
+- 📈 Hago **trading** usando estrategias avanzadas de analisis de datos  
 - 📊 Estudio **ciencia de datos e inteligencia artificial**  
 - 🏋️‍♂️ También soy amante del deporte y la nutrición  
 
@@ -28,7 +28,7 @@
 ## 🌍 Encuéntrame en  
 - [LinkedIn](https://www.linkedin.com/in/tuusuario/)
 - [Twitter](https://twitter.com/tuusuario/)
-- [GitHub](https://github.com/tuusuario/)
+- [GitHub](https://github.com/checho10777)
 
 ---
 
